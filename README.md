@@ -1,5 +1,30 @@
 
 # Sentiment-Analyser
+<div id = "header" align = "center">
+<img src = "images/1.jpg" width = "1000">
+</div>
+
+<div = id = "second" align = "center">
+  <h2> “Few realise how loud their expressions really are. Be kind with what you wordlessly say.” </h2>
+  <br>
+  <h3>Sentiment analyzer, mainly targets facial expressions, for example smile, anger, fear, sadness, joy, contempt, surprise, whatever you know.</h3>
+</div>
+
+<div id  = "body">
+ <h4> We included these type of application to our project <h4>
+ <br>
+ 
+ [![Generic badge](https://img.shields.io/badge/1.-Web_Application-<COLOR>.svg)](https://shields.io/)( [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity), [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/))
+ <br>
+ 
+ [![Generic badge](https://img.shields.io/badge/2.-Mobile_Application-<COLOR>.svg)](https://shields.io/)( [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity),[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/))
+ <br>
+ 
+ [![Generic badge](https://img.shields.io/badge/3.-Desktop_Application-<COLOR>.svg)](https://shields.io/)( [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ,[![PyPi version](https://badgen.net/pypi/v/pip/)](https://pypi.com/project/pip) , [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/),[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try), [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/))
+ <br>
+</div>
+
+<br>
 
 <b> These type of stuffs we used!</b><br>
 
